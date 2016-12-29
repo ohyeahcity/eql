@@ -11,6 +11,7 @@
       "lang_navlight": "智慧Led燈泡",
       "lang_navessence": "essence",
       "lang_navstick": "PC Stick",
+      "lang_navhbpc": "Home Base PC",     
       "lang_navinformation":"活動訊息",
       "lang_navcontact":"與我們聯繫",
       "lang_navch": "TW - 繁體中文",
@@ -18,7 +19,7 @@
       "lang_logo01": "頂級居家美容享受",
       "lang_logo02": "傳統家電全面進化",
       "lang_logo03": "顛覆想像的超迷你電腦",
-      "lang_logo04": "顛覆想像的超迷你電腦"
+      "lang_logo04": "迷你PC,智能家庭控制中樞"
    },
    {
       "lang_navabout": "About Us",
@@ -32,6 +33,7 @@
       "lang_navlight": "Smart Led Light",
       "lang_navessence": "essence",      
       "lang_navstick": "PC Stick",
+      "lang_navhbpc": "Home Base PC",     
       "lang_navinformation":"News Room",
       "lang_navcontact":"Contact Us",
       "lang_navch": "TW - Traditional Chinese ",
@@ -39,6 +41,6 @@
       "lang_logo01": "Innovative Skincare",
       "lang_logo02": "Home Automation",
       "lang_logo03": "World Smallest PC",
-      "lang_logo04": "World Smallest PC"
+      "lang_logo04": "Mini-PC and smart IoT Hub"
    }
 ]

@@ -140,6 +140,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_smoke').innerHTML = arr[lang_index].lang_smoke;
   document.getElementById('lang_weather').innerHTML = arr[lang_index].lang_weather;*/
   document.getElementById('lang_navstick').innerHTML = arr[lang_index].lang_navstick;
+  document.getElementById('lang_navhbpc').innerHTML = arr[lang_index].lang_navhbpc;
   document.getElementById('lang_navinformation').innerHTML = arr[lang_index].lang_navinformation;
   document.getElementById('lang_navcontact').innerHTML = arr[lang_index].lang_navcontact;
 
